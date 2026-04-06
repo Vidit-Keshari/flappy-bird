@@ -15,7 +15,7 @@ Umm... Can we just move on?
 ---
 
 ## Important Notice
-`Viditt: Old Series` has come to a close, because I was too lazy to maintain both `Vidit: Normal Series` and `Vidit: Old Series` together. Just kidding it's not possible for me since I work alone
+`Vidit: Old Series` has come to a close, because I was too lazy to maintain both `Vidit: Normal Series` and `Vidit: Old Series` together. Just kidding it's not possible for me since I work alone
 
 ---
 
